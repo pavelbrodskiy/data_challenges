@@ -1,5 +1,6 @@
-# Contents
-* Breast cancer classification
-
 # Overview
 This contains several data challenges I performed at Insight.
+
+# Contents
+1. Breast cancer classification
+2. A/B testing of SaaS price increase
